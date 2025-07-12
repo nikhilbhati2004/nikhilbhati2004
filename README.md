@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-I'm on a focused 1-year mission (starting January 2025) to become a skilled web developer and land my first job in tech.  
+I'm on a focused 1-year mission (starting March 2025) to become a skilled web developer and land my first job in tech.  
 I come from a commerce background, but my passion for building digital experiences brought me to web development.
 
 - 🔨 Building real-world projects
