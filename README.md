@@ -36,11 +36,17 @@ I come from a commerce background, but my passion for building digital experienc
 
 ---
 
+### 🔗 Portfolio  
+Check out my work: [nikhilbhati2004.github.io/portfolio](https://nikhilbhati2004.github.io/portfolio)
+
+---
+
 ## 📬 Let's Connect
 
 - 📧 Email: nikhilgurjar0034@gmail.com  
-- 🌐 [GitHub](https://github.com/nikhilbhati2004)  
-- 💼 LinkedIn: [Coming soon]
+- 🐱 GitHub: [github.com/nikhilbhati2004](https://github.com/nikhilbhati2004)  
+- 🔗 LinkedIn: [linkedin.com/in/nikhil-bhati-770779306](https://linkedin.com/in/nikhil-bhati-770779306)  
+- 🌐 Portfolio: [nikhilbhati2004.github.io/portfolio](https://nikhilbhati2004.github.io/portfolio)
 
 ---
 
