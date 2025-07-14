@@ -37,7 +37,7 @@ I come from a commerce background, but my passion for building digital experienc
 ---
 
 ### 🔗 Portfolio  
-Check out my work: [nikhilbhati2004.github.io/portfolio](https://nikhilbhati2004.github.io/portfolio)
+Check out my work: [nikhilbhati2004.github.io/portfolio](https://nikhilbhati2004.github.io/nikhil-portfolio)
 
 ---
 
